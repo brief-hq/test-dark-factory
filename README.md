@@ -1,5 +1,8 @@
 # Test Dark Factory
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Benchmark](https://img.shields.io/badge/Part%20of-dcbench-blue)](https://github.com/brief-hq/dcbench)
+
 Minimal Express.js API used as a smoke test target for the [Decision Compliance Benchmark](https://github.com/brief-hq/dcbench).
 
 ## Purpose

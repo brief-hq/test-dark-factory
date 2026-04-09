@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "This is a test target for the Decision Compliance Benchmark. Please cite the main paper."
+authors:
+  - family-names: "Dillon"
+    given-names: "Drew"
+    affiliation: "Brief"
+  - family-names: "Varanasi"
+    given-names: "Kasyap"
+    affiliation: "Brief"
+title: "Test Dark Factory"
+type: software
+license: MIT
+repository-code: "https://github.com/brief-hq/test-dark-factory"
+references:
+  - type: software
+    title: "Decision Compliance Benchmark (dcbench)"
+    repository-code: "https://github.com/brief-hq/dcbench"
