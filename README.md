@@ -42,7 +42,7 @@ Server runs on `http://localhost:3001`.
 ## Related
 
 - **Main benchmark**: [github.com/brief-hq/dcbench](https://github.com/brief-hq/dcbench)
-- **Paper**: [Context-Augmented Code Generation](https://briefhq.ai/research)
+- **Paper**: [Context-Augmented Code Generation](https://briefhq.ai/assets/pdf/Context_Augmented_Code_Generation.pdf)
 - **Brief**: [briefhq.ai](https://briefhq.ai)
 
 ## License
